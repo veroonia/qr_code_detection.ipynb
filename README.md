@@ -2,7 +2,7 @@
 
 This project implements a QR code detection pipeline using Python and classical computer vision techniques. The system processes input images, applies preprocessing and feature analysis, and detects QR codes using OpenCV-based image processing methods.
 
-The project demonstrates practical skills in image analysis, algorithmic problem solving, and computer vision workflows, and was developed in a Jupyter/Google Colab environment.
+The project demonstrates practical skills in image analysis, algorithmic problem solving, and computer vision workflows, and was developed in a Google Colab environment.
 
 ---
 
