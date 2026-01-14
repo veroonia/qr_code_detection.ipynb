@@ -53,3 +53,4 @@ The Streamlit web app provides an intuitive interface for detecting QR codes wit
 - Display of decoded QR content
 - Clean, modern UI design
 
+![Detection Result](screenshots/upload.png)
