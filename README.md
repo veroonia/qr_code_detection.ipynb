@@ -25,6 +25,8 @@ This project focuses on:
 - Contour analysis
 - Classical computer vision techniques
 - Visualization of intermediate and final results
+- Modular code design (logic separated from UI)
+- Web-based interaction using Streamlit
 
 ---
 
@@ -35,5 +37,19 @@ This project focuses on:
 - **NumPy**
 - **Matplotlib**
 - **Google Colab / Jupyter Notebook**
+- **Pillow (PIL)**
+- **Streamlit**
 
+---
+
+## 🌐 Streamlit Web Application
+
+The Streamlit web app provides an intuitive interface for detecting QR codes without running notebooks or scripts manually.
+
+### Features
+- Image upload (PNG / JPG)
+- Automatic QR detection
+- Visual bounding box around detected QR codes
+- Display of decoded QR content
+- Clean, modern UI design
 
